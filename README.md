@@ -37,6 +37,38 @@ if you have any questions or comments.
 
 **Teachers**: Endre Sebestyén, Bence Szalai, Gábor Turu, Miklós Cserző
 
+**Online setup**: The course will be shared on [Zoom](https://zoom.us/), and the
+classes will be recorded, even though we will have a proper IRL class too. This
+way, you can join and follow the material even if you are abroad, in quarantine,
+have another class at the same time, etc.
+
+If you haven't used Zoom before, go to the official website to download and
+install the Zoom client for your computer.
+
+Like other Carpentries workshops, you will be learning by "coding along" with
+the teachers. To do this, you will need to have both the window for the tool you
+will be learning about (a terminal, RStudio, your web browser, etc..) and the
+window for the Zoom video conference client open. In order to see both at once,
+we recommend using one of the following set up options:
+
+- **Two monitors**: If you have two monitors, plan to have your terminal or
+  RStudio up on one monitor and the video conferencing software on the other.
+
+- **Two devices**: If you don't have two monitors, do you have another device
+  (tablet, smartphone) with a medium to large sized screen? If so, try using the
+  smaller device as your video conference connection and your larger device
+  (laptop or desktop) to follow along with code examples and instructions.
+
+- **Divide your screen**: If you only have one device and one screen, practice
+  having two windows (the video conference program and one of the tools you will
+  be using at the workshop) open together. How can you best fit both on your
+  screen? Will it work better for you to toggle between them using a keyboard
+  shortcut? Try it out in advance to decide what will work best for you.
+
+This [blog post](https://carpentries.org/blog/2020/06/online-workshop-logistics-and_screen-layouts/)
+includes detailed information on how to set up your screen to follow along
+during the course.
+
 [Semmelweis PhD School Course Database](http://old.semmelweis.hu/wp-content/phd/phd_live/)
 
 ## Week 1 - 2020-09-09
