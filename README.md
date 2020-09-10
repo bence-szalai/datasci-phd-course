@@ -14,6 +14,9 @@ intended for beginners, with no or very little programming knowledge.
 1<sup>st</sup> Department of Pathology and Experimental Cancer Research, H-1085
 Budapest, Üllői út 26.
 
+**Network**: Use the `HISTOLOGY-1` or `HISTOLOGY-2` wireless networks, and ask
+the teachers for password.
+
 **Time**: every Wednesday, from 16:30 to 18:00, starting with the 9<sup>th</sup>
 of September for 14 weeks.
 
@@ -64,6 +67,9 @@ we recommend using one of the following set up options:
   be using at the workshop) open together. How can you best fit both on your
   screen? Will it work better for you to toggle between them using a keyboard
   shortcut? Try it out in advance to decide what will work best for you.
+
+The course will be recorded on Zoom automatically. Ask the teachers for a link,
+if you missed class, or want to check the examples, explanations, etc again.
 
 This [blog post](https://carpentries.org/blog/2020/06/online-workshop-logistics-and_screen-layouts/)
 includes detailed information on how to set up your screen to follow along
