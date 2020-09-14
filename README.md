@@ -153,6 +153,98 @@ problems is an important skill. If your filenames are wrong, your entire project
 tutorial](https://speakerdeck.com/jennybc/how-to-name-files) by Jenny Bryan.
 
 ## Week 2 - 2020-09-16
+
+*Data organization and cleanup, structuring projects, tidy data*
+
+Delivery plan:
+
+- Recap of basic organizational stuff for newcomers
+- Short introduction from everybody
+- Checking R, RStudio, LibreOffice/Excel setup
+- Discussing data organization in spreadsheets
+- Recommended readings
+- Homework explanation
+
+### Data organization in spreadsheets
+
+Before diving into the details of R and RStudio, we will discuss data
+organization in spreadsheets. Most researchers use spreadsheets to collect data,
+and this is the start of every analysis. However, computers need data to be
+organized in a particular way. They can't recognize typos, colored excel lines
+and other things that are easy to interpret and/or correct by humans.
+
+We will use the Data Carpentry lesson titled [Data Organization in Spreadsheets
+for Ecologists](https://datacarpentry.org/spreadsheet-ecology-lesson/) to learn
+about these things.
+
+- [Setup](https://datacarpentry.org/spreadsheet-ecology-lesson//setup.html) for
+  data download that we will use for this lesson, and software installation
+  instructions, if you don't have spreadsheet software installed.
+- [Introduction](https://datacarpentry.org/spreadsheet-ecology-lesson/00-intro/index.html) and
+  [data formatting](https://datacarpentry.org/spreadsheet-ecology-lesson/01-format-data/index.html)
+- [Common formatting problems](https://datacarpentry.org/spreadsheet-ecology-lesson/02-common-mistakes/index.html)
+- [Dates as data](https://datacarpentry.org/spreadsheet-ecology-lesson/03-dates-as-data/index.html)
+- [Quality control](https://datacarpentry.org/spreadsheet-ecology-lesson/04-quality-control/index.html)
+- [Exporting data](https://datacarpentry.org/spreadsheet-ecology-lesson/05-exporting-data/index.html)
+
+You will need some kind of spreadsheet software for this, like Microsoft Excel
+or LibreOffice. To setup LibreOffice, check the details
+[here](https://datacarpentry.org/spreadsheet-ecology-lesson//setup.html).
+
+### Recommended readings
+
+These are some of the papers that describe basic data organization principles,
+how to manage projects, etc.
+
+- Tidy Data [10.18637/jss.v059.i10](http://dx.doi.org/10.18637/jss.v059.i10):
+  how to organize your data in a clean, easy to handle way.
+- A quick guide to organizing computational biology projects
+  [10.1371/journal.pcbi.1000424](http://dx.doi.org/10.1371/journal.pcbi.1000424):
+  how to organize any project, not just computational biology projects. Anyway,
+  [all biology is computational
+  biology](http://dx.doi.org/10.1371/journal.pbio.2002050), right?
+- Good enough practices in scientific computing
+  [10.1371/journal.pcbi.1005510](http://dx.doi.org/10.1371/journal.pcbi.1005510):
+  a set of good computing practices, that every researcher can adopt, regardless
+  of current level of computational skills.
+- Best Practices for Scientific Computing
+  [10.1371/journal.pbio.1001745](http://dx.doi.org/10.1371/journal.pbio.1001745):
+  a more detailed explanation on how to organize stuff, write code, plan your
+  project, collaborate and so on.
+- Nine simple ways to make it easier to (re)use your data
+  [10.7287/peerj.preprints.7v2](https://doi.org/10.7287/peerj.preprints.7v2).
+  Another set of recommendations on how to make data understandable and
+  reusable.
+- Gene name errors are widespread in the scientific literature
+  [10.1186/s13059-016-1044-7](http://dx.doi.org/10.1186/s13059-016-1044-7): a
+  tale about gene names, dates and Excel.
+
+## Homework
+
+*Send an email from the address you would like to use for getting the
+homework submission link.* Homework deadline is 24:00, 20<sup>th</sup> of
+September. We will discuss them next week.
+
+Think about what we learned today about organizing data in spreadsheets, tidy
+data and your own project, datasets and analysis plans. Keeping all of this in
+mind, *create a single spreadsheet* showing how you would organize your
+experimental data. Add columns as needed, and include a few rows with example
+data. You can also add some explanations or comments in the table.
+
+What kind of data will you collect? Clinical information, gene expression
+values, genetic information, something else? Is it categorical or continuous?
+How many observations, patients or experiments are you planning? Are you
+planning to do multiple measurements on the same sample? Is it important to
+record experimental setup, machine parameters? What happens if you have missing
+data, for example no clinical information, or the experiment failed for a
+certain sample?
+
+### Notes
+
+It's ÉV, HÓNAP and NAP (as in hungarian) for the YEAR, MONTH and DAY functions
+of Excel, in the hungarian version. One more reason not to use Excel for
+anything.
+
 ## Week 3 - 2020-09-23
 ## Week 4 - 2020-09-30
 ## Week 5 - 2020-10-07
