@@ -92,7 +92,6 @@ Delivery plan:
 - Short introduction from everybody
 - R and RStudio download and setup
 - Getting started with R and RStudio
-- Discussing *your own* data and analysis plans
 
 ### R and RStudio installation
 
@@ -158,9 +157,7 @@ tutorial](https://speakerdeck.com/jennybc/how-to-name-files) by Jenny Bryan.
 
 Delivery plan:
 
-- Recap of basic organizational stuff for newcomers
-- Short introduction from everybody
-- Checking R, RStudio, LibreOffice/Excel setup
+- Checking LibreOffice/Excel setup
 - Discussing data organization in spreadsheets
 - Recommended readings
 - Homework explanation
