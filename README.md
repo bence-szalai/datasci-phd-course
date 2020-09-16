@@ -218,6 +218,7 @@ how to manage projects, etc.
 - Gene name errors are widespread in the scientific literature
   [10.1186/s13059-016-1044-7](http://dx.doi.org/10.1186/s13059-016-1044-7): a
   tale about gene names, dates and Excel.
+- Angol Excel függvények magyar megfelelői [link](https://www.biprojekt.hu/blog/angol-excel-fuggvenyek-magyar-megfeleloi)
 
 ## Homework
 
