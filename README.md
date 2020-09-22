@@ -244,6 +244,54 @@ of Excel, in the hungarian version. One more reason not to use Excel for
 anything.
 
 ## Week 3 - 2020-09-23
+
+*Intro to R I: variables, vectors, lists, functions*
+
+Delivery plan:
+
+- Recap of data organization
+- Short summary of homeworks
+- Intro to R I.
+- Recommended readings
+- Homework explanation
+
+During this lesson we will learn what is an R object, variable, function, etc,
+how to assign values to objects, comment things, use functions and manipulate
+vectors. We will also take a short look at lists.
+
+We will use the Data Carpentry lesson titled [Data Analysis and Visualization in
+R for Ecologists](https://datacarpentry.org/R-ecology-lesson/).
+
+- [Introduction to R](https://datacarpentry.org/R-ecology-lesson/01-intro-to-r.html)
+  up to the Vectors and data types challenge.
+
+### Recommended readings
+
+- [Advanced R - Style guide](http://adv-r.had.co.nz/Style.html): how to format
+  your code. This seems to be an unimportant and trivial thing, but will make
+  your work more user friendly, reusable, and easier to understand. Also think
+  of your future self, who will need to understand the old analysis, 10 months
+  from now.
+- [Advanced R - Vocabulary](http://adv-r.had.co.nz/Vocabulary.html): an extended
+  list of useful functions. No need to go through everything right now, as you
+  just started learning R, but it will come handy later.
+- [Programming with R](http://swcarpentry.github.io/r-novice-inflammation/): an
+  alternative introduction to R.
+
+### Homework
+
+Homework deadline is 24:00, 27<sup>th</sup> of September. We will discuss them
+next week.
+
+Take a look around in R, pick some functions, like the `mean`, `sd`, `max`,
+`sum` or others. Open your spreadsheet from homework 1, select a group of
+measurements, define it as a vector in R, and get the result of the various
+functions. Define at least 3 different vectors with different data, and use at
+least 3 functions. Save your code in a file, add comments to explain what you
+did and also add the output (or the error messages) of the functions as
+comments. Do **NOT** import the excel table into R using other functions and
+packages. Please define the vectors by typing, so you practice R syntax.
+
 ## Week 4 - 2020-09-30
 ## Week 5 - 2020-10-07
 ## Week 6 - 2020-10-14
