@@ -284,13 +284,15 @@ Homework deadline is 24:00, 27<sup>th</sup> of September. We will discuss them
 next week.
 
 Take a look around in R, pick some functions, like the `mean`, `sd`, `max`,
-`sum` or others. Open your spreadsheet from homework 1, select a group of
-measurements, define it as a vector in R, and get the result of the various
-functions. Define at least 3 different vectors with different data, and use at
-least 3 functions. Save your code in a file, add comments to explain what you
-did and also add the output (or the error messages) of the functions as
-comments. Do **NOT** import the excel table into R using other functions and
-packages. Please define the vectors by typing, so you practice R syntax.
+`sum` or others. You can search for keywords in R, using a double question mark,
+like `??wilcox`, if you don not know the exact name of the function you want to
+use. Open your spreadsheet from homework 1, select a group of measurements,
+define it as a vector in R, and get the result of the various functions. Define
+at least 3 different vectors with different data, and use at least 3 functions.
+Save your code in a file, add comments to explain what you did and also add the
+output (or the error messages) of the functions as comments. Do **NOT** import
+the excel table into R using other functions and packages. Please define the
+vectors by typing, so you practice R syntax.
 
 ## Week 4 - 2020-09-30
 ## Week 5 - 2020-10-07
