@@ -295,6 +295,50 @@ the excel table into R using other functions and packages. Please define the
 vectors by typing, so you practice R syntax.
 
 ## Week 4 - 2020-09-30
+
+*Intro to R II: subsetting and missing data*
+
+Delivery plan:
+
+- Recap of R vectors and functions
+- Short summary of homeworks
+- Intro to R II.
+- Recommended readings
+- Homework explanation
+
+### Intro to R II.
+
+During the lesson we will discuss subsetting vectors in different ways and
+dealing with missing data in vectors.
+
+We will use the Data Carpentry lesson [Data Analysis and Visualization in R
+for Ecologists](https://datacarpentry.org/R-ecology-lesson/).
+
+- [Introduction to R](https://datacarpentry.org/R-ecology-lesson/01-intro-to-r.html)
+  until the end, starting from the Subsetting vectors section.
+
+### Recommended readings
+
+- [Advanced R - Subsetting](http://adv-r.had.co.nz/Subsetting.html): Everything
+  you wanted to know about vector subsetting and much more.
+- [CRAN Task View: Missing
+  Data](https://cran.r-project.org/web/views/MissingData.html): Dealing with,
+  exploring and imputing missing data. We will discuss CRAN in more detail
+  later.
+- [Why do we use arrow as an assignment
+  operator?](https://colinfay.me/r-assignment/)
+
+### Homework
+
+Homework deadline is 24:00, 4<sup>th</sup> of October. We will discuss them next
+week.
+
+Open your script from the previous week, improve it as discussed (if needed),
+and define a new vector with experimental measurements. However, include missing
+data in the new vector. Go over your previous functions that you used in the
+script, determine how to deal with missing values, and calculate all previous
+results for this new vector as well. Send the improved analysis script.
+
 ## Week 5 - 2020-10-07
 ## Week 6 - 2020-10-14
 ## Week 7 - 2020-10-21
