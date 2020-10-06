@@ -311,11 +311,12 @@ Delivery plan:
 During the lesson we will discuss subsetting vectors in different ways and
 dealing with missing data in vectors.
 
-We will use the Data Carpentry lesson [Data Analysis and Visualization in R
-for Ecologists](https://datacarpentry.org/R-ecology-lesson/).
+We will use the Data Carpentry lesson [Data Analysis and Visualization in R for
+Ecologists](https://datacarpentry.org/R-ecology-lesson/).
 
-- [Introduction to R](https://datacarpentry.org/R-ecology-lesson/01-intro-to-r.html)
-  until the end, starting from the Subsetting vectors section.
+- [Introduction to
+  R](https://datacarpentry.org/R-ecology-lesson/01-intro-to-r.html) until the
+  end, starting from the Subsetting vectors section.
 
 ### Recommended readings
 
@@ -340,6 +341,51 @@ script, determine how to deal with missing values, and calculate all previous
 results for this new vector as well. Send the improved analysis script.
 
 ## Week 5 - 2020-10-07
+
+*Intro to R III: reading in and writing out data, factors, data frames*
+
+Delivery plan:
+
+- Recap of R subsetting and missing values
+- Short summary of homeworks
+- Intro to R III.
+- Recommended readings
+- Homework explanation
+
+### Intro to R III.
+
+During the lesson we will discuss how to import data into R from external
+sources, what a data.frame is, and how to use factors.
+
+We will use the Data Carpentry lesson [Data Analysis and Visualization in R for
+Ecologists](https://datacarpentry.org/R-ecology-lesson/).
+
+- [Starting with
+  data](https://datacarpentry.org/R-ecology-lesson/02-starting-with-data.html)
+  until the Formatting Dates part.
+
+### Recommended readings
+
+- Importing data files with the readr package, from the [R for Data
+  Science](https://r4ds.had.co.nz/data-import.html) book.
+- Working with factors, also from the [R for Data
+  Science](https://r4ds.had.co.nz/factors.html) book.
+- R documentation on [data
+  import/export](https://cran.r-project.org/doc/manuals/r-release/R-data.html).
+- The [rio package](https://github.com/leeper/rio) for importing/exporting a
+  huge range of data formats.
+
+### Homework
+
+Homework deadline is 24:00, 11<sup>th</sup> of October. We will discuss them
+next week.
+
+Take your final excel dataset from the first lessons, export it as a csv file,
+and read it into R with the function(s) discussed today. Run the `head`, `tail`,
+`summary`, `nrow`, `ncol` and `str` functions on it. Save the code and the
+results as an R script and send it. Write down possible errors, formatting
+problems, and their possible sources so we can discuss them next week.
+
 ## Week 6 - 2020-10-14
 ## Week 7 - 2020-10-21
 ## Week 8 - 2020-10-28
