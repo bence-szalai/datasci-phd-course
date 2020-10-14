@@ -415,6 +415,7 @@ for Ecologists](https://datacarpentry.org/R-ecology-lesson/).
 
 ### Recommended readings
 
+- Check [CRAN](https://cran.r-project.org/) and [Bioconductor](https://bioconductor.org/)
 - [Bioconductor: open software development for computational biology and
   bioinformatics](https://genomebiology.biomedcentral.com/articles/10.1186/gb-2004-5-10-r80)
 - [Managing, installing, updating CRAN
