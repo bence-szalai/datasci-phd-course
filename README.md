@@ -387,6 +387,61 @@ results as an R script and send it. Write down possible errors, formatting
 problems, and their possible sources so we can discuss them next week.
 
 ## Week 6 - 2020-10-14
+
+
+*Intro to R IV: CRAN and Bioconductor, using dplyr*
+
+Delivery plan:
+
+- Recap of R factors, data.frames, and functions used
+- Short summary of homeworks
+- Short intro to CRAN and Bioconductor
+- Intro to R IV.
+- Recommended readings
+- Homework explanation
+
+### Intro to R IV.
+
+During the lesson we will learn how to manipulate and analyze data with the
+dplyr package, learn about long and wide data formats, and use the
+split-apply-combine concept for analysis.
+
+We will use the Data Carpentry lesson [Data Analysis and Visualization in R
+for Ecologists](https://datacarpentry.org/R-ecology-lesson/).
+
+- [Manipulating data](https://datacarpentry.org/R-ecology-lesson/03-dplyr.html),
+  where we might skip the *Reshaping with gather and spread* part, considering 
+  progress and questions.
+
+### Recommended readings
+
+- [Bioconductor: open software development for computational biology and
+  bioinformatics](https://genomebiology.biomedcentral.com/articles/10.1186/gb-2004-5-10-r80)
+- [Managing, installing, updating CRAN
+  packages](https://cran.r-project.org/doc/manuals/r-release/R-admin.html#Add_002don-packages)
+- Might want to refresh your ideas about tidy data
+  [10.18637/jss.v059.i10](http://dx.doi.org/10.18637/jss.v059.i10).
+
+### Homework
+
+Homework deadline is 24:00, 18<sup>th</sup> of October. We will discuss them next week.
+
+Take your csv file from last time (or a similar dataset from a paper or public
+repository if you are getting bored with it), and read it into R with the
+`tidyverse` based function discussed today. Run the `head`, `tail`, and `str`
+functions on it. Select and filter a specific subset with `select` and `filter`,
+create a few new columns with `mutate`, group them according to your
+experimental design with `group_by` (perhaps using mutation status, treatment,
+or similar grouping), and calculate some informative statistics, like `mean`,
+`median`, `min`, `max`, etc using `summarize`.  Save the code and the results as
+an R script and send it. Write down possible errors, formatting problems, and
+their possible sources so we can discuss them next week.
+
+Please keep in mind what we discussed about formatting your code, adding
+comments, adding the output of functions as comments, and NOT adding the `>`
+character at the start of lines in a script. It might be useful checking out the
+[tidyverse style guide](https://style.tidyverse.org/).
+
 ## Week 7 - 2020-10-21
 ## Week 8 - 2020-10-28
 ## Week 9 - 2020-11-04
