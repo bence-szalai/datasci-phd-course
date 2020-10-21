@@ -469,6 +469,8 @@ for Ecologists](https://datacarpentry.org/R-ecology-lesson/).
 - Documentation of the [lubridate](https://lubridate.tidyverse.org/) package
 - [Dates and times](https://r4ds.had.co.nz/dates-and-times.html) chapter in the
   R for Data Science book
+- Documentation of the [stringr](https://stringr.tidyverse.org/) package, that
+  might be useful for the homework too!
 - The [Stack Overflow R tag](https://stackoverflow.com/questions/tagged/r)
 
 ### Homework
@@ -477,7 +479,8 @@ Homework deadline is 24:00, 25<sup>th</sup> of October. We will discuss them nex
 
 Download
 [this](https://github.com/SU-CompBio/datasci-phd-course/blob/master/data/sample_submission.txt)
-data table, and using what you learned until now, try to:
+data table, and using what you learned until now (and maybe some new functions),
+try to:
 
 - Clean up the data, and correct possible errors, using *only* R code, without
   manual editing
