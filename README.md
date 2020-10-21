@@ -437,7 +437,7 @@ character at the start of lines in a script. It might be useful checking out the
 
 ## Week 7 - 2020-10-21
 
-*Intro to R V: CRAN and Bioconductor, using dplyr*
+*Intro to R V: dates, using dplyr*
 
 Delivery plan:
 
