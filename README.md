@@ -216,7 +216,7 @@ how to manage projects, etc.
   tale about gene names, dates and Excel.
 - Angol Excel függvények magyar megfelelői [link](https://www.biprojekt.hu/blog/angol-excel-fuggvenyek-magyar-megfeleloi)
 
-## Homework
+### Homework
 
 *Send an email from the address you would like to use for getting the
 homework submission link.* Homework deadline is 24:00, 20<sup>th</sup> of
@@ -471,6 +471,8 @@ for Ecologists](https://datacarpentry.org/R-ecology-lesson/).
   R for Data Science book
 - The [Stack Overflow R tag](https://stackoverflow.com/questions/tagged/r)
 
+### Homework
+
 Homework deadline is 24:00, 25<sup>th</sup> of October. We will discuss them next week.
 
 Download
@@ -489,7 +491,8 @@ Some things to consider:
 
 - Be careful with the categories whe grouping the data, check for errors and
   think about which categories actually make sense
-- Any or all of the functions might be useful, when cleaning up the data
+- Any or all of the functions we learned about might be useful, when cleaning up
+  the data
 - A properly carried out Stack Overflow search and copy-pasting the *correct*
   code for solving an issue is as good as anything else
 - Don't forget about the `?` and `??` functions
