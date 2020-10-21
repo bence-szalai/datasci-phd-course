@@ -159,7 +159,6 @@ Delivery plan:
 
 - Checking LibreOffice/Excel setup
 - Discussing data organization in spreadsheets
-- Recommended readings
 - Homework explanation
 
 ### Data organization in spreadsheets
@@ -252,7 +251,6 @@ Delivery plan:
 - Recap of data organization
 - Short summary of homeworks
 - Intro to R I.
-- Recommended readings
 - Homework explanation
 
 During this lesson we will learn what is an R object, variable, function, etc,
@@ -303,7 +301,6 @@ Delivery plan:
 - Recap of R vectors and functions
 - Short summary of homeworks
 - Intro to R II.
-- Recommended readings
 - Homework explanation
 
 ### Intro to R II.
@@ -349,7 +346,6 @@ Delivery plan:
 - Recap of R subsetting and missing values
 - Short summary of homeworks
 - Intro to R III.
-- Recommended readings
 - Homework explanation
 
 ### Intro to R III.
@@ -388,7 +384,6 @@ problems, and their possible sources so we can discuss them next week.
 
 ## Week 6 - 2020-10-14
 
-
 *Intro to R IV: CRAN and Bioconductor, using dplyr*
 
 Delivery plan:
@@ -397,21 +392,18 @@ Delivery plan:
 - Short summary of homeworks
 - Short intro to CRAN and Bioconductor
 - Intro to R IV.
-- Recommended readings
 - Homework explanation
 
 ### Intro to R IV.
 
 During the lesson we will learn how to manipulate and analyze data with the
-dplyr package, learn about long and wide data formats, and use the
-split-apply-combine concept for analysis.
+dplyr package, and use the split-apply-combine concept for analysis.
 
 We will use the Data Carpentry lesson [Data Analysis and Visualization in R
 for Ecologists](https://datacarpentry.org/R-ecology-lesson/).
 
 - [Manipulating data](https://datacarpentry.org/R-ecology-lesson/03-dplyr.html),
-  where we might skip the *Reshaping with gather and spread* part, considering 
-  progress and questions.
+  until the *Reshaping with gather and spread* part.
 
 ### Recommended readings
 
@@ -444,6 +436,64 @@ character at the start of lines in a script. It might be useful checking out the
 [tidyverse style guide](https://style.tidyverse.org/).
 
 ## Week 7 - 2020-10-21
+
+*Intro to R V: CRAN and Bioconductor, using dplyr*
+
+Delivery plan:
+
+- Recap of R tidyverse functions
+- Short summary of homeworks
+- Intro to R V.
+- Homework explanation
+
+### Intro to R V.
+
+During the lesson we will learn how to manipulate and analyze data with the
+dplyr package, learn about long and wide data formats, and how to deal with
+dates.
+
+We will use the Data Carpentry lesson [Data Analysis and Visualization in R
+for Ecologists](https://datacarpentry.org/R-ecology-lesson/).
+
+- [Manipulating data](https://datacarpentry.org/R-ecology-lesson/03-dplyr.html),
+  starting with the [*Reshaping with gather and
+  spread*](https://datacarpentry.org/R-ecology-lesson/03-dplyr.html#Reshaping_with_gather_and_spread)
+  part until the end.
+- The last section of [Starting with
+  data](https://datacarpentry.org/R-ecology-lesson/02-starting-with-data.html),
+  [Formatting
+  dates](https://datacarpentry.org/R-ecology-lesson/02-starting-with-data.html#Formatting_dates)
+
+### Recommended readings
+
+- Documentation of the [lubridate](https://lubridate.tidyverse.org/) package
+- [Dates and times](https://r4ds.had.co.nz/dates-and-times.html) chapter in the
+  R for Data Science book
+- The [Stack Overflow R tag](https://stackoverflow.com/questions/tagged/r)
+
+Homework deadline is 24:00, 25<sup>th</sup> of October. We will discuss them next week.
+
+Download
+[this](https://github.com/SU-CompBio/datasci-phd-course/blob/master/data/sample_submission.txt)
+data table, and using what you learned until now, try to:
+
+- Clean up the data, and correct possible errors, using *only* R code, without
+  manual editing
+- Save the result in a csv file
+- Calculate the `mean` and `sd` of the concentration and RIN columns, grouped by
+  the `client_sample_id` and `replicate` columns
+- Save the statistics in another csv file
+- Send the *commented* R script and the csv files
+
+Some things to consider:
+
+- Be careful with the categories whe grouping the data, check for errors and
+  think about which categories actually make sense
+- Any or all of the functions might be useful, when cleaning up the data
+- A properly carried out Stack Overflow search and copy-pasting the *correct*
+  code for solving an issue is as good as anything else
+- Don't forget about the `?` and `??` functions
+
 ## Week 8 - 2020-10-28
 ## Week 9 - 2020-11-04
 ## Week 10 - 2020-11-11
