@@ -501,6 +501,41 @@ Some things to consider:
 - Don't forget about the `?` and `??` functions
 
 ## Week 8 - 2020-10-28
+
+*Intro to R VI: data visualization with ggplot2*
+
+Delivery plan:
+
+- R graphics: data visualization with ggplot2
+- Short summary of homeworks
+- Homework explanation
+
+### R graphics
+
+We will use the Data Carpentry lesson [Data Analysis and Visualization in R
+for Ecologists](https://datacarpentry.org/R-ecology-lesson/) to learn about the
+basics of the ggplot2 package, produce different types of simple and more
+complex plots.
+
+- [Data visualization with ggplot2](https://datacarpentry.org/R-ecology-lesson/04-visualization-ggplot2.html).
+
+### Recommended readings
+
+- [ggplot2: Elegant Graphics for Data Analysis](https://ggplot2-book.org/)
+- [Fundamentals of Data Visualization](https://serialmentor.com/dataviz/)
+
+### Homework
+
+Homework deadline is 24:00, 1<sup>st</sup> of November. We will discuss them later.
+
+Import your cleaned up experimental data from the previous week and create a boxplot
+using the `ggplot2` package, where you show the distribution of the `RIN` and
+`concentration` columns, grouped according to the `replicate` and `client_sample_id`
+columns. Use colors, facets or grouping as needed. Send the R script and
+the final plot(s).
+
+Final solution for the previous week available [here](https://github.com/SU-CompBio/datasci-phd-course/blob/master/code/data_cleanup.R).
+
 ## Week 9 - 2020-11-04
 ## Week 10 - 2020-11-11
 ## Week 11 - 2020-11-18
