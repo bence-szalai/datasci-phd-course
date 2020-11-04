@@ -537,6 +537,17 @@ the final plot(s).
 Final solution for the previous week available [here](https://github.com/SU-CompBio/datasci-phd-course/blob/master/code/data_cleanup.R).
 
 ## Week 9 - 2020-11-04
+
+####Python Intro, Main variables, File I/O
+
+We will use Jupyter notebooks during the course. We suggest two ways to use Pyhton during the course:
+
+* [Google Colab (ready to use, runs in the cloud)](https://colab.research.google.com/)
+* [Anaconda Python distribution (needs installation, runs locally)](https://www.anaconda.com/products/individual)
+
+Notebooks and data can be found on [Google Drive](https://drive.google.com/drive/folders/1qw-WODcO_OZ3-zIYubgQLzkBBt19ObeS?usp=sharing). Homework should be uploaded into Week9 directtory (file name: student name) until next Monday evening.
+
+
 ## Week 10 - 2020-11-11
 ## Week 11 - 2020-11-18
 ## Week 12 - 2020-11-25
