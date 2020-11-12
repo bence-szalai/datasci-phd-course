@@ -549,6 +549,11 @@ Notebooks and data can be found on [Google Drive](https://drive.google.com/drive
 
 
 ## Week 10 - 2020-11-11
+#### Python: dictionaries, flow control (conditional statements, loops)
+
+Notebooks and data can be found on [Google Drive](https://drive.google.com/drive/folders/1qw-WODcO_OZ3-zIYubgQLzkBBt19ObeS?usp=sharing). Homework should be uploaded into Week9 directtory (file name: student name) until next Monday evening.
+
+
 ## Week 11 - 2020-11-18
 ## Week 12 - 2020-11-25
 ## Week 13 - 2020-12-02
