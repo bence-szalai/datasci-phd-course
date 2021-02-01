@@ -77,6 +77,25 @@ during the course.
 
 [Semmelweis PhD School Course Database](http://old.semmelweis.hu/wp-content/phd/phd_live/)
 
+## Schedule
+
+|Week |Date      |Instructor     |
+|-----|----------|---------------|
+|1.   |2020-09-09|Endre Sebestyén|
+|2.   |2020-09-16|Endre Sebestyén|
+|3.   |2020-09-23|Endre Sebestyén|
+|4.   |2020-09-30|Endre Sebestyén|
+|5.   |2020-10-07|Endre Sebestyén|
+|6.   |2020-10-14|Endre Sebestyén|
+|7.   |2020-10-21|Endre Sebestyén|
+|8.   |2020-10-28|Endre Sebestyén|
+|9.   |2020-11-04|Bence Szalai   |
+|10.  |2020-11-11|Gábor Turu     |
+|11.  |2020-11-18|Bence Szalai   |
+|12.  |2020-11-25|Gábor Turu     |
+|13.  |2020-12-02|Bence Szalai   |
+|14.  |2020-12-09|Gábor Turu     |
+
 ## Week 1 - 2020-09-09
 
 *Introduction, software installation, setting up RStudio projects, naming
@@ -538,23 +557,34 @@ Final solution for the previous week available [here](https://github.com/SU-Comp
 
 ## Week 9 - 2020-11-04
 
-####Python Intro, Main variables, File I/O
+### Python Intro, Main variables, File I/O
 
-We will use Jupyter notebooks during the course. We suggest two ways to use Pyhton during the course:
+We will use Jupyter notebooks during the course. We suggest two ways to use
+Pyhton during the course.
 
-* [Google Colab (ready to use, runs in the cloud)](https://colab.research.google.com/)
-* [Anaconda Python distribution (needs installation, runs locally)](https://www.anaconda.com/products/individual)
+* [Google Colab](https://colab.research.google.com): ready to use, runs in the
+  cloud
+* [Anaconda Python distribution](https://www.anaconda.com/products/individual):
+  needs installation, runs locally
 
-Notebooks and data can be found on [Google Drive](https://drive.google.com/drive/folders/1qw-WODcO_OZ3-zIYubgQLzkBBt19ObeS?usp=sharing). Homework should be uploaded into Week9 directtory (file name: student name) until next Monday evening.
-
+Notebooks and data can be found on [Google
+Drive](https://drive.google.com/drive/folders/1qw-WODcO_OZ3-zIYubgQLzkBBt19ObeS?usp=sharing).
+Homework should be uploaded into Week9 directtory (file name: student name)
+until next Monday evening.
 
 ## Week 10 - 2020-11-11
-#### Python: dictionaries, flow control (conditional statements, loops)
 
-Notebooks and data can be found on [Google Drive](https://drive.google.com/drive/folders/1qw-WODcO_OZ3-zIYubgQLzkBBt19ObeS?usp=sharing). Homework should be uploaded into Week9 directtory (file name: student name) until next Monday evening.
+### Python: dictionaries, flow control (conditional statements, loops)
 
+Notebooks and data can be found on [Google
+Drive](https://drive.google.com/drive/folders/1qw-WODcO_OZ3-zIYubgQLzkBBt19ObeS?usp=sharing).
+Homework should be uploaded into Week9 directtory (file name: student name)
+until next Monday evening.
 
 ## Week 11 - 2020-11-18
+
 ## Week 12 - 2020-11-25
+
 ## Week 13 - 2020-12-02
+
 ## Week 14 - 2020-12-09
